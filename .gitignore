@@ -1,1 +1,4 @@
 .ipynb_checkpoints/*
+numpy/.ipynb_checkpoints/*
+scipy/.ipynb_checkpoints/*
+matplotlib/.ipynb_checkpoints/*
